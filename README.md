@@ -15,7 +15,7 @@ An Apache based HTTP client to test SNI vs non-SNI client requests to an nginx s
 
 - Setup the right classpath and mainClass tags in MANIFEST.MF for a normal(thin) JAR?
 
-***Ans:*** Use maven-jar-plugin with the config as defined in pom.xml
+**Ans:** Use maven-jar-plugin with the config as defined in pom.xml
 
 - Setup the right classpath and mainClass tags in MANIFEST.MF for a fat JAR?
 
